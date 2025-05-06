@@ -6,3 +6,4 @@ dwl
 config.h
 subprojects/wlroots
 **/.cache
+**/compile_commands.json
